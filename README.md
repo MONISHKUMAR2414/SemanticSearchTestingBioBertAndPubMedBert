@@ -57,6 +57,10 @@ Step 4: Enable MeSH mapping or Gemini summarization (optional).
 
 Step 5: View top articles, abstracts, summaries, and download CSV.
 
+<img width="1916" height="970" alt="Screenshot 2025-08-22 131007" src="https://github.com/user-attachments/assets/c0150bb5-fe4a-4523-9f2a-24b78e7fddcf" />
+
+<img width="1896" height="965" alt="Screenshot 2025-08-22 130931" src="https://github.com/user-attachments/assets/054f8371-21a2-475d-ac2c-d60614cf41a9" />
+
 
 🤝 CONTRIBUTING
 
